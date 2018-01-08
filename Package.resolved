@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CLISpinner",
+        "repositoryURL": "https://github.com/kiliankoe/CLISpinner",
+        "state": {
+          "branch": null,
+          "revision": "3b38fe43a8152dcdd236b53d5fce566a81d5a9f4",
+          "version": "0.3.5"
+        }
+      },
+      {
+        "package": "Rainbow",
+        "repositoryURL": "https://github.com/onevcat/Rainbow",
+        "state": {
+          "branch": null,
+          "revision": "f407235c7e473c3cb2d2907bb6822616d22a0b78",
+          "version": "3.0.3"
+        }
+      },
+      {
+        "package": "Signals",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSignals",
+        "state": {
+          "branch": null,
+          "revision": "0fab5a9f166e96f17bb9646dc56cd22a6f3c3757",
+          "version": "0.9.50"
+        }
+      },
+      {
+        "package": "WikipediaKit",
+        "repositoryURL": "https://github.com/Raureif/WikipediaKit",
+        "state": {
+          "branch": "v1.0.0-beta.5",
+          "revision": "2504ceda0dee0bd64d0a82f94a56dbbe488f83d4",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
