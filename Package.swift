@@ -6,6 +6,7 @@ let package = Package(
     name: "WikiTranslate",
     products: [
         .library(name: "WikiTranslate", targets: ["WikiTranslateCore"]),
+        .executable(name: "wt", targets: ["wt"]),
     ],
     dependencies: [
         .package(url: "https://github.com/kiliankoe/CLISpinner", .upToNextMajor(from: "0.3.5")),
