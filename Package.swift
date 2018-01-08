@@ -4,6 +4,9 @@ import PackageDescription
 
 let package = Package(
     name: "WikiTranslate",
+    products: [
+        .library(name: "WikiTranslate", targets: ["WikiTranslateCore"]),
+    ],
     dependencies: [
         .package(url: "https://github.com/kiliankoe/CLISpinner", .upToNextMajor(from: "0.3.5")),
         .package(url: "https://github.com/IBM-Swift/BlueSignals", .upToNextMajor(from: "0.9.50")),
