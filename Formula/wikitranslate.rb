@@ -10,7 +10,7 @@ class Wikitranslate < Formula
     def install
         build_path = "#{buildpath}/.build/release/wt"
         ohai "Building WikiTranslate"
-        system("swift build -c release --static-swift-stdlib")
+        system("swift build --disable-sandbox -c release --static-swift-stdlib")
         bin.install build_path
     end
 end
