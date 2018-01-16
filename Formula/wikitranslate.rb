@@ -1,4 +1,4 @@
-class WikiTranslate < Formula
+class Wikitranslate < Formula
     desc "Use Wikipedia as a dictionary"
     homepage "https://github.com/kiliankoe/WikiTranslate"
     url "https://github.com/kiliankoe/WikiTranslate/archive/0.1.0.tar.gz"
