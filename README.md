@@ -39,7 +39,12 @@ eesti: Laap
 
 ## Installation
 
-todo
+Make sure Xcode 9+ is installed first.
+
+```
+$ brew tap kiliankoe/WikiTranslate https://github.com/kiliankoe/WikiTranslate.git
+$ brew install WikiTranslate
+```
 
 ## Shortcomings
 
