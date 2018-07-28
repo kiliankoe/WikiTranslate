@@ -2,12 +2,21 @@
   "object": {
     "pins": [
       {
+        "package": "Signals",
+        "repositoryURL": "https://github.com/IBM-Swift/BlueSignals",
+        "state": {
+          "branch": null,
+          "revision": "c5a3445f0be9a4fabd66765f54559f039a9f2cfb",
+          "version": "1.0.4"
+        }
+      },
+      {
         "package": "CLISpinner",
         "repositoryURL": "https://github.com/kiliankoe/CLISpinner",
         "state": {
           "branch": null,
-          "revision": "3b38fe43a8152dcdd236b53d5fce566a81d5a9f4",
-          "version": "0.3.5"
+          "revision": "93ca0c508e2bfcfc65ef068f667b3f20c327158c",
+          "version": "0.3.6"
         }
       },
       {
@@ -15,17 +24,8 @@
         "repositoryURL": "https://github.com/onevcat/Rainbow",
         "state": {
           "branch": null,
-          "revision": "f407235c7e473c3cb2d2907bb6822616d22a0b78",
-          "version": "3.0.3"
-        }
-      },
-      {
-        "package": "Signals",
-        "repositoryURL": "https://github.com/IBM-Swift/BlueSignals",
-        "state": {
-          "branch": null,
-          "revision": "0fab5a9f166e96f17bb9646dc56cd22a6f3c3757",
-          "version": "0.9.50"
+          "revision": "797a68d0a642609424b08f11eb56974a54d5f6e2",
+          "version": "3.1.4"
         }
       },
       {
